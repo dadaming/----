@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">艺术签名豪华版</string>
+    <string name="short_name">艺术签名</string>
+    <string name="about_text">"签名图片保存到本地的目录是：/sdcard/艺术签名豪华版/
+保存格式如：周杰伦_草书.gif
+所以如果相同名字和相同字体的签名会覆盖保存
+谢谢您的支持！"</string>
+</resources>

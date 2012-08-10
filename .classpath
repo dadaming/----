@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="lib" path="E:/暂时文件/android_miidicredit_v2_2_2/libs/miidiad_android_push_2_2_2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/暂时文件/android_miidicredit_v2_2_2/libs/miidiad_android_banner_2_2_2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/暂时文件/android_miidicredit_v2_2_2/libs/miidiad_android_wall_2_2_2.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

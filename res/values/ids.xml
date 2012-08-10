@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="input_edit">false</item>
+    <item type="id" name="set_layout">false</item>
+    <item type="id" name="layout1">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="layout2">false</item>
+    <item type="id" name="layout3">false</item>
+    <item type="id" name="layout4">false</item>
+    <item type="id" name="layout5">false</item>
+    <item type="id" name="layout6">false</item>
+    <item type="id" name="layout7">false</item>
+    <item type="id" name="result_view">false</item>
+    <item type="id" name="result_image">false</item>
+    <item type="id" name="nameview">false</item>
+    <item type="id" name="back_btn">false</item>
+    <item type="id" name="save_btn">false</item>
+</resources>

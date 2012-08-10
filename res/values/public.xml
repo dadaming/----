@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="item_select" id="0x7f020005" />
+    <public type="drawable" name="ad_icon1" id="0x7f020000" />
+    <public type="drawable" name="ad_icon2" id="0x7f020001" />
+    <public type="drawable" name="ad_icon3" id="0x7f020002" />
+    <public type="drawable" name="ad_icon4" id="0x7f020003" />
+    <public type="drawable" name="icon" id="0x7f020004" />
+    <public type="drawable" name="main_bg" id="0x7f020006" />
+    <public type="layout" name="inptu_name" id="0x7f030000" />
+    <public type="layout" name="main" id="0x7f030001" />
+    <public type="color" name="item_normal" id="0x7f040000" />
+    <public type="color" name="item_press" id="0x7f040001" />
+    <public type="string" name="app_name" id="0x7f050000" />
+    <public type="string" name="short_name" id="0x7f050001" />
+    <public type="string" name="about_text" id="0x7f050002" />
+    <public type="id" name="input_edit" id="0x7f060000" />
+    <public type="id" name="set_layout" id="0x7f060001" />
+    <public type="id" name="layout1" id="0x7f060002" />
+    <public type="id" name="content" id="0x7f060003" />
+    <public type="id" name="layout2" id="0x7f060004" />
+    <public type="id" name="layout3" id="0x7f060005" />
+    <public type="id" name="layout4" id="0x7f060006" />
+    <public type="id" name="layout5" id="0x7f060007" />
+    <public type="id" name="layout6" id="0x7f060008" />
+    <public type="id" name="layout7" id="0x7f060009" />
+    <public type="id" name="result_view" id="0x7f06000a" />
+    <public type="id" name="result_image" id="0x7f06000b" />
+    <public type="id" name="nameview" id="0x7f06000c" />
+    <public type="id" name="back_btn" id="0x7f06000d" />
+    <public type="id" name="save_btn" id="0x7f06000e" />
+</resources>
